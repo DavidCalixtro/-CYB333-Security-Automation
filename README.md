@@ -13,6 +13,7 @@ This project explains how Windows operating systems can be secured using built-i
 ## Files Included
 - windows_security_paper.md → Full research paper
 - references.txt → Sources used in the paper
+- security_check.ps1
 
 ## Key Topics Covered
 - Malware and phishing threats
