@@ -1,33 +1,26 @@
-# CYB 333 Final Project
+# CYB 333 Windows Security Project
 
-## Project Description
-This project uses Python and Jupyter Notebook to automate basic cybersecurity tasks. The program collects information from a target system and displays the results.
+## Project Overview
+This project explains how Windows operating systems can be secured using built-in tools, automation, and security best practices. It focuses on real-world security features like PowerShell, Group Policy, Microsoft Defender, BitLocker, and Windows Firewall.
 
-## Features
-- Network scanning
-- Port scanning
-- Data collection
-- Automated reporting
+## Objectives
+- Understand common threats to Windows systems
+- Learn how PowerShell can automate security tasks
+- Understand how Group Policy enforces security rules
+- Explore built-in Windows security tools
+- Review open-source security tools used for system auditing
 
-## Requirements
-- Python 3.x
-- Jupyter Notebook
-- Pandas
-- Requests
+## Files Included
+- windows_security_paper.md → Full research paper
+- references.txt → Sources used in the paper
 
-## Installation
+## Key Topics Covered
+- Malware and phishing threats
+- Windows Defender and Firewall
+- BitLocker encryption
+- PowerShell automation
+- Group Policy management
+- Open-source tools (Lynis, OSQuery, Wazuh, BloodHound)
 
-1. Clone the repository
-
-git clone https://github.com/yourusername/CYB333-FinalProject.git
-
-2. Install dependencies
-
-pip install -r requirements.txt
-
-3. Run the project
-
-python main.py
-
-## Author
-David Calixtro
+## How to View
+1. Clone the repository:
